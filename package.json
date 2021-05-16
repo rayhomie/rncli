@@ -1,5 +1,5 @@
 {
-  "name": "rncli",
+  "name": "@rayhomie/rncli",
   "version": "0.1.0",
   "main": "index.js",
   "private": false,
@@ -19,10 +19,10 @@
   "description": "Create A React Native Project With ReactNavigation & Dva.js & TypeScript",
   "author": "rayhomie <1572801584@qq.com>",
   "license": "MIT",
-  "homepage": "http://ui.rayhomie.icu/",
+  "homepage": "https://github.com/rayhomie/rncli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rayhomie/rayhomieui"
+    "url": "https://github.com/rayhomie/rncli"
   },
   "dependencies": {
     "commander": "^7.2.0",
