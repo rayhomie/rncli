@@ -1,0 +1,31 @@
+{
+  "name": "rncli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "rncli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React Native",
+    "Dvajs",
+    "TypeScript",
+    "React Navigation",
+    "React"
+  ],
+  "description": "Create A React Native Project With ReactNavigation & Dva.js & TypeScript",
+  "author": "rayhomie <1572801584@qq.com>",
+  "license": "MIT",
+  "homepage": "http://ui.rayhomie.icu/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayhomie/rayhomieui"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
